@@ -8,5 +8,6 @@ Build model on diabetes dataset.
 
 Code--> (https://colab.research.google.com/drive/1RocCg9seGGTkPmjiTLQVTku4KNw1jVbF?usp=sharing)
 
+Diabetes Prediction web app --> (https://diabetespredictionwebapp-fjh6w0e9ij.streamlit.app/)
 
 
